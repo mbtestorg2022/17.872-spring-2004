@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/1fd84c02f4cd9613064fe43a7292dfcb_ps6sol.pdf
 file_type: application/pdf
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Document
 title: ps6sol.pdf
 uid: 1fd84c02-f4cd-9613-064f-e43a7292dfcb
